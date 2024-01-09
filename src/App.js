@@ -5,7 +5,7 @@ function App() {
     <div>
       hi
       <p>bulid Test !!! please</p>
-      <p>bulid 되라 !!</p>
+      <p>bulissss</p>
       <p>bulid 되라 !!</p>
       <p>bulid 되라 !!</p>
     </div>
